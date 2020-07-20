@@ -12,7 +12,7 @@ If you found value in something I have created, please feel free to give me a sh
 
 ### My Digital Footprints 🌱
 
-I am developing aspnetrun repositories which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices).[AspnetRun Repositories](https://github.com/aspnetrun)
+I am developing aspnetrun repositories which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices). [AspnetRun Repositories](https://github.com/aspnetrun)
 
 I created udemy courses you can find discounted link in here. [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7)
 
