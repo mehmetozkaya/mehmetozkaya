@@ -12,13 +12,13 @@ If you found value in something I have created, please feel free to give me a sh
 
 ### My Digital Footprints 🌱
 
+I am developing aspnetrun repositories which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices).[AspnetRun Repositories(https://github.com/aspnetrun)
+
+I created udemy courses you can find discounted link in here. [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7)
+
 I write regular blog posts, most of which you will find on my medium page. [Medium](https://medium.com/aspnetrun)
 
-I also created udemy courses you can find discounted link in here. [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7)
-
 If you are interested in e-books related my topics you can check the website. [AspnetRun](https://aspnetrun.azurewebsites.net/)
-
-I write about things I am familiar with and things that I am learning. 
 
 <details>
  <summary><strong>What i am learning/working on these days</strong></summary>
