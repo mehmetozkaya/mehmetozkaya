@@ -28,5 +28,3 @@ If you are interested in e-books related my topics you can check the website. [A
    - Video Editing <br/>   
 </details>
 
-![Mehmet's github stats](https://github-readme-stats.vercel.app/api?username=mehmetozkaya&show_icons=true&hide=["prs","issues","contribs"])
-
