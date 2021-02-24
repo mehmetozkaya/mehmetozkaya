@@ -16,7 +16,7 @@ I am developing aspnetrun repositories which is the best path to leverage your a
 
 I created udemy courses you can find discounted link in here. [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=3988ADC79E858C6D55A7)
 
-I write regular blog posts, most of which you will find on my medium page. [Medium Page](https://medium.com/aspnetrun)
+I write regular blog posts, most of which you will find on my medium page. [Medium Page](https://mehmetozkaya.medium.com/)
 
 If you are interested in e-books related my topics you can check the website. [AspnetRun Website](https://aspnetrun.azurewebsites.net/)
 
