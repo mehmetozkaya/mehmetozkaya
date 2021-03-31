@@ -1,12 +1,10 @@
 ### Hi there 👋
 
-I am developing aspnetrun repositories which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices). [AspnetRun Repositories](https://github.com/aspnetrun)
+I am developing [AspnetRun Repositories](https://github.com/aspnetrun) which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices). 
 
-I have created [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=3988ADC79E858C6D55A7) and you can find all my courses with discounted in [here.](https://github.com/aspnetrun/learn)
+I have created [Microservices Architecture and Implementation on .Net Udemy Course](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=3988ADC79E858C6D55A7) and you can find all my courses with discounted in [here.](https://github.com/aspnetrun/learn)
 
 I write regular blog posts, most of which you will find on my medium page. [Medium Page](https://mehmetozkaya.medium.com/)
-
-If you are interested in e-books related my topics you can check the website. [AspnetRun Website](https://aspnetrun.azurewebsites.net/)
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mehmet-%C3%B6zkaya-444a935/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
