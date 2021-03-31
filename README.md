@@ -2,7 +2,7 @@
 
 I am developing aspnetrun repositories which is the best path to leverage your aspnet skills from zero to hero (core-cleanarchitecture-cqrs-microservices). [AspnetRun Repositories](https://github.com/aspnetrun)
 
-I created udemy courses you can find discounted link in here. [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=3988ADC79E858C6D55A7)
+I have created [Microservices Architecture and Implementation on .Net Udemy](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=3988ADC79E858C6D55A7) and you can find all my courses with discounted in [here.](https://github.com/aspnetrun/learn)
 
 I write regular blog posts, most of which you will find on my medium page. [Medium Page](https://mehmetozkaya.medium.com/)
 
