@@ -4,7 +4,7 @@ I am developing [AspnetRun Repositories](https://github.com/aspnetrun) which is 
 
 I have created [Microservices Architecture and Implementation on .Net Udemy Course](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7) and you can find all my courses [with discounted in here.](https://github.com/aspnetrun/learn)
 
-I write regular blog posts, most of which you will find on my [Medium Page](https://medium.com/aspnetrun). 
+I write regular blog posts, most of which you will find on my [Medium Page](https://mehmetozkaya.medium.com/). 
 
 <p align='center'>
 <a href="https://www.linkedin.com/in/mehmet-%C3%B6zkaya-444a935/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
