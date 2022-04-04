@@ -1,4 +1,4 @@
-**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) which is the best path to leverage your development skills from zero to hero (core-cleanarchitecture-cqrs-microservices).**
+**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) which is the best path to leverage your development skills from zero to hero.**
 
 #### .NET -> [Microservices Architecture and Implementation on .Net Udemy Course](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7), you can find all my courses [with discounted in here.](https://github.com/aspnetrun/learn)
 
