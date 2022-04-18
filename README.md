@@ -9,7 +9,7 @@
 **I write regular blog posts, most of which you will find on my [Medium Page](https://mehmetozkaya.medium.com/).**
 
 <p align='center'>
-<a href="https://www.linkedin.com/in/mehmet-%C3%B6zkaya-444a935/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/mehmet-ozkaya/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://twitter.com/ezozkme"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="mailto:ezozkme@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
 <a href="https://aspnetrun.azurewebsites.net/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
