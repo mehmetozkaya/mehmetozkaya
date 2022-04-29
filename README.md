@@ -1,4 +1,4 @@
-**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) and create Udemy courses from real-world applications. Find Discounted links below;**
+**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) and create Udemy courses from real-world applications. Discounted links below;**
 
 ### AWS Serverless Udemy Courses
 * [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=APRIL22)
