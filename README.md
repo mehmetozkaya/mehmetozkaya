@@ -1,4 +1,25 @@
-**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) which is the best path to leverage your development skills from zero to hero.**
+**I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) which is the best path to leverage your development skills and create Udemy courses from real-world applications.**
+
+### AWS Serverless
+* [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=APRIL22)
+  * [Medium Article Series](https://medium.com/aws-serverless-microservices-with-patterns-best)
+  * [Github Repository](https://github.com/awsrun/aws-microservices)
+
+### Software Architecture
+* [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/?couponCode=APRIL22)
+  * [Medium Article Series](https://medium.com/design-microservices-architecture-with-patterns)
+  * [Github Repository](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
+
+### .Net Microservices
+* [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=APRIL22)
+  * [Medium Article Series](https://medium.com/aspnetrun)
+  * [Github Repository](https://github.com/aspnetrun/run-aspnetcore-microservices)
+* [Deploying .Net Microservices with K8s, AKS and Azure DevOps](https://www.udemy.com/course/deploying-net-microservices-with-k8s-aks-and-azure-devops/?couponCode=APRIL22)
+* [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=APRIL22)
+* [Microservices Observability, Resilience, Monitoring on .Net](https://www.udemy.com/course/microservices-observability-resilience-monitoring-on-net/?referralCode=D162C050483C75452136)
+* [Using gRPC in Microservices Communication with .Net 5](https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/?couponCode=MARCH22)
+
+
 
 #### .NET -> [Microservices Architecture and Implementation on .Net Udemy Course](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?referralCode=FA6BAE225A0B6F0B7BB7), you can find all my courses [with discounted in here.](https://github.com/aspnetrun/learn)
 
