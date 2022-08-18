@@ -13,19 +13,3 @@
 * [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=AUGUST22)
 * [Microservices Observability, Resilience, Monitoring on .Net](https://www.udemy.com/course/microservices-observability-resilience-monitoring-on-net/?couponCode=AUGUST22)
 * [Using gRPC in Microservices Communication with .Net 5](https://www.udemy.com/course/using-grpc-in-microservices-communication-with-net-5/?couponCode=AUGUST22)
-
-<p align='center'>
-<a href="https://www.linkedin.com/in/mehmet-ozkaya/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://twitter.com/ezozkme"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="mailto:ezozkme@gmail.com"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/mail.png?raw=true"></a>
-<a href="https://aspnetrun.azurewebsites.net/"><img height="30" src="https://github.com/singhkshitij/singhkshitij/blob/master/blog.png?raw=true"></a>
-</p>
-
-<details>
- <summary><strong>What i am learning/working on these days</strong></summary>
-   - Cloud Native .Net Microservices <br/>
-   - Serverless Architecture <br/>
-   - Modular Monolithic <br/>
-   - Video Editing <br/>   
-</details>
-
