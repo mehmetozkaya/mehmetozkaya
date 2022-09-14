@@ -1,7 +1,7 @@
 **I am developing [awsrun](https://github.com/awsrun) and [aspnetrun repositories](https://github.com/aspnetrun) and create Udemy courses from real-world applications. Active Coupon SEPT22 links below;**
 
 ### AWS Serverless Udemy Courses
-* [AWS Lambda & Serverless - Developer Guide with Hands-on Labs](https://www.udemy.com/course/aws-lambda-serverless-developer-guide-with-hands-on-labs/?couponCode=SEPT22) - [Medium Articles](https://medium.com/aws-serverless-microservices-with-patterns-best) - [Github Repository](https://github.com/awsrun/aws-serverless)
+* [AWS Lambda & Serverless - Developer Guide with Hands-on Labs](https://www.udemy.com/course/aws-lambda-serverless-developer-guide-with-hands-on-labs/?couponCode=SEPT22) - [Medium Articles](https://medium.com/aws-lambda-serverless-developer-guide-with-hands) - [Github Repository](https://github.com/awsrun/aws-serverless)
 * [AWS Serverless Microservices with Patterns & Best Practices](https://www.udemy.com/course/aws-serverless-microservices-lambda-eventbridge-sqs-apigateway/?couponCode=SEPT22) - [Medium Articles](https://medium.com/aws-serverless-microservices-with-patterns-best) - [Github Repository](https://github.com/awsrun/aws-microservices)
 
 ### Software Architecture Udemy Courses
