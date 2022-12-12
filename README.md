@@ -6,6 +6,7 @@
 
 ### Software Architecture Udemy Courses
 * [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/?couponCode=DECE22) - [Medium Articles](https://medium.com/design-microservices-architecture-with-patterns) - [Github Repository](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
+* [Microservices Interview: Essential Questions and Answers](https://www.udemy.com/course/microservices-interview-essential-questions-and-answers/?couponCode=LAUNCHTEST) - [Medium Articles](https://medium.com/p/aa40aa477955)
 
 ### .Net Microservices Udemy Courses
 * [Microservices Architecture and Implementation on .NET 5](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=DECE22) - [Medium Articles](https://medium.com/aspnetrun) - [Github Repository](https://github.com/aspnetrun/run-aspnetcore-microservices)
