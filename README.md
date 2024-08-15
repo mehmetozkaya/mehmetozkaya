@@ -6,6 +6,7 @@
 * [Microservices Interview: Essential Questions and Answers](https://www.udemy.com/course/microservices-interview-essential-questions-and-answers/?couponCode=AUGU24) - [Medium Articles](https://medium.com/p/aa40aa477955)
 
 ### .Net Microservices Udemy Courses
+* [.NET Backend Bootcamp: Modulith, VSA, DDD, CQRS and Outbox](https://www.udemy.com/course/net-backend-bootcamp-modulith-vsa-ddd-cqrs-and-outbox/?couponCode=AUGU24) - [Medium Articles](https://mehmetozkaya.medium.com/net-backend-bootcamp-modular-monoliths-vsa-ddd-cqrs-and-outbox-b6332b272209) - [Github Repository](https://github.com/mehmetozkaya/EshopModularMonoliths)
 * [.NET 8 Microservices: DDD, CQRS, Vertical/Clean Architecture](https://www.udemy.com/course/microservices-architecture-and-implementation-on-dotnet/?couponCode=AUGU24) - [Medium Articles](https://medium.com/aspnetrun) - [Github Repository](https://github.com/aspnetrun/run-aspnetcore-microservices)
 * [Deploying .Net Microservices with K8s, AKS and Azure DevOps](https://www.udemy.com/course/deploying-net-microservices-with-k8s-aks-and-azure-devops/?couponCode=AUGU24)
 * [Secure .Net Microservices with IdentityServer4 OAuth2,OpenID](https://www.udemy.com/course/secure-net-microservices-with-identityserver4-oauth2openid/?couponCode=AUGU24)
