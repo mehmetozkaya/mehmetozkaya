@@ -3,6 +3,7 @@
 ### Software Architecture Udemy Courses
 * [Design Microservices Architecture with Patterns & Principles](https://www.udemy.com/course/design-microservices-architecture-with-patterns-principles/?couponCode=NOVE24) - [Medium Articles](https://medium.com/design-microservices-architecture-with-patterns) - [Github Repository](https://github.com/mehmetozkaya/Design-Microservices-Architecture-with-Patterns-Principles)
 * [Cloud-Native: Microservices, Kubernetes, Service Mesh, CI/CD](https://www.udemy.com/course/cloud-native-microservices-kubernetes-service-mesh-cicd/?couponCode=NOVE24) - [Medium Articles](https://medium.com/design-microservices-architecture-with-patterns) - [Github Repository](https://github.com/mehmetozkaya/CloudNative)
+* [Generative AI Architectures with LLM, Prompt, RAG, Vector DB](https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db/?couponCode=NOVE24) - [Medium Articles](https://mehmetozkaya.medium.com/generative-ai-architectures-with-llm-prompt-rag-fine-tuning-and-vector-db-636783149420)
 * [Microservices Interview: Essential Questions and Answers](https://www.udemy.com/course/microservices-interview-essential-questions-and-answers/?couponCode=NOVE24) - [Medium Articles](https://medium.com/p/aa40aa477955)
 
 ### .Net Microservices Udemy Courses
