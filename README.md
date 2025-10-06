@@ -2,7 +2,7 @@
 
 ### GenAI Udemy Courses
 * [(DESIGN) Generative AI Architectures with LLM, Prompt, RAG, Vector DB](https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db/?couponCode=OCTO25) - [Medium Articles](https://mehmetozkaya.medium.com/generative-ai-architectures-with-llm-prompt-rag-fine-tuning-and-vector-db-636783149420)
-* [(CODE) GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://www.udemy.com/course/genai-for-net-build-llm-apps-with-openai-and-ollama/?couponCode=LAUNCH_NETAI) - [Medium Articles](https://mehmetozkaya.medium.com/my-new-course-on-building-generative-ai-applications-with-net-is-live-a6883b8a486d) - [Github Repository](https://github.com/mehmetozkaya/genai-for-dotnet)
+* [(CODE) GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://www.udemy.com/course/genai-for-net-build-llm-apps-with-openai-and-ollama/?couponCode=OCTO25) - [Medium Articles](https://mehmetozkaya.medium.com/my-new-course-on-building-generative-ai-applications-with-net-is-live-a6883b8a486d) - [Github Repository](https://github.com/mehmetozkaya/genai-for-dotnet)
 * [.NET Aspire and GenAI Develop Distributed Architectures 2025](https://www.udemy.com/course/net-aspire-and-genai-develop-distributed-architectures/?couponCode=OCTO25) - [Medium Articles](https://mehmetozkaya.medium.com/net-aspire-and-genai-develop-distributed-architectures-2025-045b0eb87a22) - [Github Repository](https://github.com/mehmetozkaya/eshop-distributed)
 
 ### Software Architecture Udemy Courses
