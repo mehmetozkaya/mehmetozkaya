@@ -1,6 +1,6 @@
 **I am developing repositories and create Udemy courses from real-world applications. Active Coupon DECE25 links below;**
 ### AI Agents & Agentic AI Udemy Courses
-* [(DESIGN) Agentic AI Architectures with Patterns, Frameworks and MCP](https://www.udemy.com/course/agentic-ai-architectures-with-patterns-frameworks-and-mcp/?couponCode=LAUNCH_AG) - [Medium Articles](https://medium.com/@mehmetozkaya/agentic-ai-architectures-with-patterns-frameworks-mcp-25afcc97ae62)
+* [NEW !! (DESIGN) Agentic AI Architectures with Patterns, Frameworks and MCP](https://www.udemy.com/course/agentic-ai-architectures-with-patterns-frameworks-and-mcp/?couponCode=LAUNCH_AG) - [Medium Articles](https://medium.com/@mehmetozkaya/agentic-ai-architectures-with-patterns-frameworks-mcp-25afcc97ae62)
 ### GenAI Udemy Courses
 * [(DESIGN) Generative AI Architectures with LLM, Prompt, RAG, Vector DB](https://www.udemy.com/course/generative-ai-architectures-with-llm-prompt-rag-vector-db/?couponCode=DECE25) - [Medium Articles](https://mehmetozkaya.medium.com/generative-ai-architectures-with-llm-prompt-rag-fine-tuning-and-vector-db-636783149420)
 * [(CODE) GenAI for .NET: Build LLM Apps with OpenAI and Ollama](https://www.udemy.com/course/genai-for-net-build-llm-apps-with-openai-and-ollama/?couponCode=DECE25) - [Medium Articles](https://mehmetozkaya.medium.com/my-new-course-on-building-generative-ai-applications-with-net-is-live-a6883b8a486d) - [Github Repository](https://github.com/mehmetozkaya/genai-for-dotnet)
